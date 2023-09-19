@@ -1,4 +1,4 @@
-### Hello there.
+### Hello there. This is my first practice.
 
 <!--
 **DouglasAmos/DouglasAmos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
